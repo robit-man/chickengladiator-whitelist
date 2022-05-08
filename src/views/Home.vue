@@ -14,7 +14,7 @@
     </div>
 
     <div class="whitelist" style="width:512px;max-width:calc(100vw - 2rem);margin:auto;"> 
-     <h1 class="parallaxtop">CHICKEN GLADIATORS</h1><br>
+     <img src="~/@/assets/chickengladtitle.png" alt="" style="margin:auto;width:100%;">
       <h2 style="">10,000 Unique NFTs <br>Prepare for Battle in the <b>P2E</b> Arena!</h2><br>
         <div class="gladiators2">
       <img src="~/@/assets/muscle_guy_sil.png" alt="">
@@ -91,7 +91,7 @@ p{max-width:calc(100vw - 4rem);margin:auto;}
     width: max-content!important;
     height: fit-content!important;min-height:200px;}
 .parallaxtoph1{text-align:center;color:white!important;font-size:4rem;}
-.gladiators{width:30%;display:flex;flex-flow:wrap;
+.gladiators{padding-top: 20vh;width:30%;display:flex;flex-flow:wrap;
 justify-content:center;}
 .gladiators2{display:none;flex-flow:wrap;
 justify-content:center;}
