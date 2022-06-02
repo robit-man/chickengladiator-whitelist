@@ -14,28 +14,21 @@
     </div>
 
     <div class="whitelist" style="width:512px;max-width:calc(100vw - 2rem);margin:auto;"> 
-     <img src="~/@/assets/chickengladtitle.png" alt="" style="margin:auto;width:100%;">
+     <img src="~/@/assets/Logo_with_Shadow-1.png" alt="" style="margin:auto;width:100%;">
       <h2 style="">10,000 Unique NFTs <br>Prepare for Battle in the <b>P2E</b> Arena!</h2><br>
         <div class="gladiators2">
       <img src="~/@/assets/muscle_guy_sil.png" alt="">
     <img src="~/@/assets/fat_guy_sil.png" alt="">
 
     </div>
-     <h1 style="">OG Whitelist: <b style="color:indianred;"><br class="nodesktop">OPEN NOW!</b></h1><br>
-<p>
-           Only 100 Spots Max
-</p>    <br>
+     <h1 style="">YOU'RE <b style="color:indianred;"><br class="nodesktop">EARLY!</b></h1><br>
+    <br>
 
      <div class="button joinbutton" >JOIN WHITELIST</div>
      <br>
      <br>
-     <h2>CLOSES IN: <br>
-        <Countdown deadline="April 1, 2022"></Countdown>    </h2>
-
-        <br>
-        <br>
 <p>
-    Watch our social for further updates... 
+	Join our channels for early access benefits & giveaways…
     <br><br></p>
     
     <div style="display:flex;margin:auto;flex-flow:row;justify-content:center;">
@@ -67,7 +60,6 @@
 
 <script>
 import { mapState, mapActions } from 'vuex';
-import Countdown from 'vuejs-countdown'
 export default {
   data() {
     return {
@@ -79,7 +71,6 @@ export default {
     };
   },
  components: {
-   Countdown,
     
   },
 };
