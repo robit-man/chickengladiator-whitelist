@@ -13,15 +13,15 @@
 
     </div>
 
-    <div class="whitelist" style="width:512px;max-width:calc(100vw - 2rem);margin:auto;"> 
-     <img src="~/@/assets/Logo_with_Shadow-1.png" alt="" style="margin:auto;width:100%;">
+    <div class="whitelist" style="width:720px;max-width:calc(100vw - 2rem);margin:auto;margin-top:2rem;"> 
+     <img src="~/@/assets/Logo_with_Shadow-1.png" alt="" style="margin:auto;margin-bottom:2rem;width:100%;">
       <h2 style="">10,000 Unique NFTs <br>Prepare for Battle in the <b>P2E</b> Arena!</h2><br>
         <div class="gladiators2">
       <img src="~/@/assets/muscle_guy_sil.png" alt="">
     <img src="~/@/assets/fat_guy_sil.png" alt="">
 
     </div>
-     <h1 style="">YOU'RE <b style="color:indianred;"><br class="nodesktop">EARLY!</b></h1><br>
+     <h1 style="font-size:5rem;">YOU'RE <b style="color:indianred;"><br class="nodesktop">EARLY!</b></h1><br>
     <br>
 
      <div class="button joinbutton" >JOIN WHITELIST</div>
