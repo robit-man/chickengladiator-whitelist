@@ -21,7 +21,7 @@
     <img src="~/@/assets/fat_guy_sil.png" alt="">
 
     </div>
-     <h1 style="font-size:5rem;">YOU'RE <b style="color:indianred;"><br class="nodesktop">EARLY!</b></h1><br>
+     <h1 style="font-size:5rem;">YOU'RE <b style="color:indianred;">EARLY!</b></h1><br>
     <br>
 
      <a href="https://discord.gg/hXGhBRrcMn"><div class="button joinbutton" >JOIN COMMUNITY</div></a>
