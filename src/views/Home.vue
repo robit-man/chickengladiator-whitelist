@@ -26,13 +26,14 @@
      <a href="https://discord.gg/hXGhBRrcMn"><div class="button joinbutton" >JOIN COMMUNITY</div></a>
      <br>
   
-<p>
+<p style="  font-size: 1.5rem;
+  font-weight: bold;text-shadow: 2px 2px black;">
 	Join our channels for early access benefits & giveaways…
     <br><br></p>
     
-    <div style="display:flex;margin:auto;flex-flow:row;justify-content:center;">
-    <a target="_blank" href="https://twitter.com/ChickenGladsNFT"><img class="socialicon" src="~/@/assets/twitter.svg" alt=""></a>
-    <a target="_blank" href="https://discord.gg/hXGhBRrcMn"><img class="socialicon" src="~/@/assets/discord.svg" alt=""></a>
+    <div style="display:flex;margin:auto;flex-flow:row;justify-content:space-around;width:300px">
+    <a class="whitecircle" target="_blank" href="https://twitter.com/ChickenGladsNFT"><img class="socialicon" src="~/@/assets/twitter.svg" alt=""></a>
+    <a class="whitecircle" target="_blank" href="https://discord.gg/hXGhBRrcMn"><img class="socialicon" src="~/@/assets/discord.svg" alt=""></a>
     
     </div>
         <br>
@@ -90,13 +91,19 @@ justify-content:center;}
   .gladiators2 > img:hover{transform:scale(1.1);}
 .whitelist{text-align:center;}
 .socialicon{width:64px;margin-left:1rem;margin-right:1rem;transition:all 0.2s ease;}
-.socialicon:hover{transform:scale(1.1);}
 .parallaxtop{font-size:4rem;padding-top:1rem;}  .nodesktop{display:none;}
   .row{height:100%;}
-
+.whitecircle{transition:all 0.2s ease;height: 100px;box-shadow:2px 4px black,0px 4px 10px rgba(0,0,0,0.2);
+  width: 100px;
+  display: flex;
+  background: gold;
+  border-radius: 10rem;
+  justify-content: center; }
+  .whitecircle:hover{  background: black;transform:scale(1.1);
+box-shadow:0px 2px black,0px 2px 10px rgba(0,0,0,0.2);}
 .joinbutton{padding: 1rem;
 border-radius: 0.25rem;
-color: black;transition:all 0.2s ease;background-color:gold;border:unset;font-size:1.5rem;box-shadow:0px 4px black,0px 4px 10px rgba(0,0,0,0.2);}
+color: black;transition:all 0.2s ease;background-color:gold;border:unset;font-size:1.5rem;box-shadow:2px 4px black,0px 4px 10px rgba(0,0,0,0.2);}
 .joinbutton:hover{background-color:black;transform:scale(1.1);border:unset;font-size:1.5rem;box-shadow:0px 2px black,0px 2px 10px rgba(0,0,0,0.2);color:gold;}
 .connectwallet{background-color:transparent;border:1px solid white;box-shadow:0px 2px black;color:white;margin-bottom:2rem;transition:all 0.2s ease;}
 .connectwallet:hover{background-color:white;border:1px solid white;box-shadow:0px 2px black;color:black;}
