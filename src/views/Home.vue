@@ -14,7 +14,7 @@
     </div>
 
     <div class="whitelist" style="width:1000px;max-width:calc(100vw - 2rem);margin:auto;margin-top:1rem;"> 
-     <img src="~/@/assets/Logo_with_Shadow-1.png" alt="" style="margin:auto;width:auto;max-height:30vh;max-width:90vw;margin-bottom: 5vh;">
+     <img src="~/@/assets/Logo_with_Shadow-1.png" alt="" style="margin:auto;width:auto;max-height:30vh;max-width:100%;margin-bottom: 5vh;">
       <h2 style="">10,000 Unique NFTs <br>Prepare for Battle in the <b>P2E</b> Arena!</h2><br>
         <div class="gladiators2">
       <img src="~/@/assets/muscle_guy_sil.png" alt="">
