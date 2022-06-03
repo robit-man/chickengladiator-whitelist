@@ -14,7 +14,7 @@
     </div>
 
     <div class="whitelist" style="width:1000px;max-width:calc(100vw - 2rem);margin:auto;margin-top:1rem;"> 
-     <img src="~/@/assets/Logo_with_Shadow-1.png" alt="" style="margin:auto;width:100%;">
+     <img src="~/@/assets/Logo_with_Shadow-1.png" alt="" style="margin:auto;width:auto;max-height:30vh;max-width:90vw;margin-bottom: 5vh;">
       <h2 style="">10,000 Unique NFTs <br>Prepare for Battle in the <b>P2E</b> Arena!</h2><br>
         <div class="gladiators2">
       <img src="~/@/assets/muscle_guy_sil.png" alt="">
@@ -22,11 +22,10 @@
 
     </div>
      <h1 style="font-size:5rem;">YOU'RE <b style="color:indianred;">EARLY!</b></h1><br>
-    <br>
 
      <a href="https://discord.gg/hXGhBRrcMn"><div class="button joinbutton" >JOIN COMMUNITY</div></a>
      <br>
-     <br>
+  
 <p>
 	Join our channels for early access benefits & giveaways…
     <br><br></p>
@@ -101,11 +100,11 @@ color: black;transition:all 0.2s ease;background-color:gold;border:unset;font-si
 .joinbutton:hover{background-color:black;transform:scale(1.1);border:unset;font-size:1.5rem;box-shadow:0px 2px black,0px 2px 10px rgba(0,0,0,0.2);color:gold;}
 .connectwallet{background-color:transparent;border:1px solid white;box-shadow:0px 2px black;color:white;margin-bottom:2rem;transition:all 0.2s ease;}
 .connectwallet:hover{background-color:white;border:1px solid white;box-shadow:0px 2px black;color:black;}
-@media screen and (max-width:600px) {.gladiators2{display:flex;flex-flow:wrap;
+@media screen and (max-width:900px) {.gladiators2{display:flex;flex-flow:wrap;
 justify-content:center;}
   .nomobile{display:none;}
   .nodesktop{display:block;}h2{font-size:1rem;}
-  h1{font-size:2rem!important;max-width:calc(100vw - 4rem);margin:auto;}
+  h1{font-size:3rem!important;max-width:calc(100vw - 4rem);margin:auto;}
    .gladiators{display:none;flex-flow:row;justify-content:center;}
   .gladiators > img{margin:auto 2rem;max-height:128px;}  .gladiators2 > img{margin:auto 2rem;max-height:128px;}
   .row{flex-flow:column;}  .gladiators2{display:flex;flex-flow:row;}
